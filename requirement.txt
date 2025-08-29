@@ -1,0 +1,17 @@
+python==3.11.9
+pandas==2.3.2
+numpy==2.3.2
+matplotlib==3.10.5
+seaborn==0.13.2
+spacy==3.8
+scikit-learn==1.7.1
+beautifulsoup4==4.13.5
+requests==v2.x
+tensorflow==2.20.0
+transformers==4.55.4
+torch==2.8.0
+react==19.0.0 
+django==5.2.5
+djangorestframework=3.16.1
+nltk==3.9.1
+re ==built into Python (3.11.9)
