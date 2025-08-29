@@ -24,9 +24,11 @@ sentiment classification.
 -   Required Libraries:
 
         pandas, numpy, matplotlib, seaborn, spacy, scikit-learn,
-        beautifulsoup4, requests, torch, transformers, datasets
+        beautifulsoup4, requests, torch, transformers, datasets, nltk, tensorflow
+        react, django, djangorestframework
 
--   IDE: **VS Code**
+
+-   IDE: **VS Code,Google colab**
 
 
 
